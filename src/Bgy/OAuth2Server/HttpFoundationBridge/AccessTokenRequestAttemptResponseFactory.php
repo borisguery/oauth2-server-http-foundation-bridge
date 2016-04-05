@@ -3,7 +3,7 @@
  * @author Boris Guéry <guery.b@gmail.com>
  */
 
-namespace Bgy\OAuth2Server\HttpFoundation;
+namespace Bgy\OAuth2Server\HttpFoundationBridge;
 
 
 use Bgy\OAuth2\FailedTokenRequestAttemptResult;
